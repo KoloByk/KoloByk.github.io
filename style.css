@@ -1,0 +1,22 @@
+div {
+    display: none;
+    position: absolute;
+    width: 250px;
+    height: 116px;
+    border-radius: 14px;
+    text-align: center;
+    background-color: darkcyan;
+    font-size: 22px;
+    font-family: serif;
+}
+
+canvas {
+    display: inline-block;
+    position: relative;
+    background-color: lightblue;
+    border: 1px solid #000000;
+}
+
+body {
+    text-align: center;
+}
